@@ -1,2 +1,2 @@
 # MCN-main
-The implementation of Multiplication Convolutional Networks (MCN) in Pytorch.
+The implementation of Interpretable Multiplication Convolutional Network (MCN) in Pytorch.
