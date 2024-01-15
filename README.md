@@ -14,7 +14,7 @@ Paper:
   pages = {},
   year = {},
   issn = {},
-  doi = {},
+  doi = {10.1109/TSMC.2023.3346398},
   url = {},
 }
 ```
@@ -37,8 +37,9 @@ We presents a multiplication-convolution network in a novel way of collaborating
 Self-collected datasets
 * Self-made Gear Dataset (unavailable)
 ### Open source datasets
-* [SQ Bearing Dataset]([https://engineering.case.edu/bearingdatacenter](https://github.com/Lvhaixin/SQdataset)
+* [SQ Bearing Dataset](https://github.com/Lvhaixin/SQdataset)
 
 # Related works
-* [R. Liu, X. Ding, S. Liu, Q. Wu, and Y. Shao, “Sinc-Based Multiplication-Convolution Network for Small-Sample Fault Diagnosis and Edge Application,” IEEE Trans. Instrum. Meas., vol. 72, pp. 1-12, 2023.]()
+* [R. Liu, X. Ding, et al., “Sinc-Based Multiplication-Convolution Network for Small-Sample Fault Diagnosis and Edge Application,” IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-12, 2023.](https://ieeexplore.ieee.org/document/10266990)
+* [Q. Wu, X. Ding, et al., "An Interpretable Multiplication-Convolution Sparse Network for Equipment Intelligent Diagnosis in Antialiasing and Regularization Constraint," IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-12, 2023.](https://ieeexplore.ieee.org/document/10108914)
 
