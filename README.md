@@ -1,7 +1,6 @@
 # MCN-main
 The implementation of Interpretable Multiplication Convolutional Network (MCN) in Pytorch.
 ## [An Interpretable Multiplication-Convolution Network for Equipment Intelligent Edge Diagnosis](https://www.sciencedirect.com/science/article)
-![MCN](https://github.com/CQU-BITS/MCN-main/blob/main/GA.png)
 
 # Implementation of the paper:
 Paper:
