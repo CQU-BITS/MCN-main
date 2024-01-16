@@ -39,7 +39,7 @@ Self-collected datasets
 * [SQ Bearing Dataset](https://github.com/Lvhaixin/SQdataset)
 
 # Acknowledgement
-* [WDCNN](https://github.com/Lvhaixin/SQdataset)
+* [WDCNN](https://www.mdpi.com/1424-8220/17/2/425)
 * [LaplaceAlexNet](https://github.com/HazeDT/WaveletKernelNet)
 * [CNN, LeNet, AlexNet and ResNet18](https://github.com/HazeDT/DL-based-Intelligent-Diagnosis-Benchmark)
 
