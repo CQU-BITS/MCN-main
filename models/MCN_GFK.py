@@ -1,12 +1,15 @@
 
-# Author   : CQU-BITS
+# Description: Signal processing collaborated with deep learning aims to a novel causal network architecture and the proposed MCN achieved an
+# interpretable expression with high accuracy. It should be noted that multiplication and convolution modules are mathematically connected
+# as a combination of BPNN and CNN, where the interpretable designed filters enhances the data mining ability.
+# Authors   : Rui Liu, Xiaoxi Ding
+# URL       : https://github.com/CQU-BITS/MCN-main
+# The related reference : R. Liu, X. Ding*, Q. Wu, Q. He and Y. Shao, "An Interpretable Multiplication-Convolution Network for Equipment
+# Intelligent Edge Diagnosis", IEEE Transactions on Systems, Man and Cybernetics: Systems,
+# DOI: 10.1109/TSMC.2023.3346398
 # Date     : 2024/01/16
-# version  : V0.1.0
-# Copyright: by CQU-BITS
-# URL      : https://github.com/CQU-BITS/MCN-main
-# Citation : Rui Liu, Xiaoxi Ding, Qihang Wu, Qingbo He and Yimin Shao, "An Interpretable Multiplication-Convolution
-# Network for Equipment Intelligent Edge Diagnosis", IEEE Transactions on Systems, Man and Cybernetics: Systems,
-# doi: 10.1109/TSMC.2023.3346398
+# Version: v0.1.0
+# Copyright by CQU-BITS
 
 
 import numpy as np
