@@ -1,7 +1,7 @@
 
-# Description: Signal processing collaborated with deep learning aims to a novel causal network architecture and the proposed MCN achieved an
-# interpretable expression with high accuracy. It should be noted that multiplication and convolution modules are mathematically connected
-# as a combination of BPNN and CNN, where the interpretable designed filters enhances the data mining ability.
+# Description: Signal processing collaborated with deep learning aims to establish a novel causal network architecture and the proposed MCN achieved
+# an interpretable expression with high accuracy. It should be noted that multiplication and convolution modules are mathematically connected as a 
+# combination of BPNN and CNN, where the interpretable designed filters enhances the data mining ability.
 # Authors   : Rui Liu, Xiaoxi Ding
 # URL       : https://github.com/CQU-BITS/MCN-main
 # The related reference : R. Liu, X. Ding*, Q. Wu, Q. He and Y. Shao, "An Interpretable Multiplication-Convolution Network for Equipment
