@@ -5,14 +5,14 @@ The implementation of Interpretable Multiplication Convolutional Network (MCN) i
 # Implementation of the paper:
 Paper:
 ```
-@article{PHMGNNBenchmark,
+@article{Interpretable MCN,
   title={An Interpretable Multiplication-Convolution Network for Equipment Intelligent Edge Diagnosis},
   author = {Rui Liu, Xiaoxi Ding, Qihang Wu, Qingbo He and Yimin Shao},
   journal={IEEE Transactions on Systems, Man and Cybernetics: Systems},
   volume = {},
   pages = {},
-  year = {},
-  issn = {},
+  year = {2024},
+  issn = {2168-2216},
   doi = {10.1109/TSMC.2023.3346398},
   url = {},
 }
