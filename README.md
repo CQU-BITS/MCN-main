@@ -34,9 +34,14 @@ We presents a multiplication-convolution network in a novel way of collaborating
 
 # Datasets
 Self-collected datasets
-* Self-made Gear Dataset (unavailable)
+* Self-made Gear Dataset (unavailable at present)
 ### Open source datasets
 * [SQ Bearing Dataset](https://github.com/Lvhaixin/SQdataset)
+
+# Acknowledgement
+* [WDCNN](https://github.com/Lvhaixin/SQdataset)
+* [LaplaceAlexNet](https://github.com/HazeDT/WaveletKernelNet)
+* [CNN, LeNet, AlexNet and ResNet18](https://github.com/HazeDT/DL-based-Intelligent-Diagnosis-Benchmark)
 
 # Related works
 * [R. Liu, X. Ding, et al., “Sinc-Based Multiplication-Convolution Network for Small-Sample Fault Diagnosis and Edge Application,” IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-12, 2023.](https://ieeexplore.ieee.org/document/10266990)
