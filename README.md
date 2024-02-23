@@ -7,7 +7,7 @@ Paper:
 ```
 @article{Interpretable MCN,
   title={An Interpretable Multiplication-Convolution Network for Equipment Intelligent Edge Diagnosis},
-  author = {Rui Liu, Xiaoxi Ding, Qihang Wu, Qingbo He and Yimin Shao},
+  author = {Rui Liu and Xiaoxi Ding and Qihang Wu and Qingbo He and Yimin Shao},
   journal={IEEE Transactions on Systems, Man and Cybernetics: Systems},
   volume = {},
   pages = {},
