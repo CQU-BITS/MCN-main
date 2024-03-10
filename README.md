@@ -46,4 +46,6 @@ Self-collected datasets
 # Related works
 * [R. Liu, X. Ding, et al., “Sinc-Based Multiplication-Convolution Network for Small-Sample Fault Diagnosis and Edge Application,” IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-12, 2023.](https://ieeexplore.ieee.org/document/10266990)
 * [Q. Wu, X. Ding, et al., "An Interpretable Multiplication-Convolution Sparse Network for Equipment Intelligent Diagnosis in Antialiasing and Regularization Constraint," IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-12, 2023.](https://ieeexplore.ieee.org/document/10108914)
+* [Q. Wu, X. Ding, Q. Zhang, R. Liu, S. Wu, Q. He, An Intelligent Edge Diagnosis System Based on Multiplication-Convolution Sparse Network, IEEE Sens. J., (2023) 1-1.](https://ieeexplore.ieee.org/document/10227888)
+* [R. Liu, X. Ding, Y. Shao, W. Huang, An interpretable multiplication-convolution residual network for equipment fault diagnosis via time–frequency filtering, Adv. Eng. Inform., 60 (2024) 102421.](https://www.sciencedirect.com/science/article/pii/S1474034624000697)
 
