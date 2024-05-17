@@ -44,11 +44,11 @@ Self-collected datasets
 * [CNN, LeNet, AlexNet and ResNet18](https://github.com/HazeDT/DL-based-Intelligent-Diagnosis-Benchmark)
 
 # Related works
-* [R. Liu, X. Ding*, etc., “An Interpretable Multiplication-Convolution Network for Equipment Intelligent Edge Diagnosis, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024](https://ieeexplore.ieee.org/abstract/document/10443049).
-* [R. Liu, X. Ding*, etc., “An interpretable multiplication-convolution residual network for equipment fault diagnosis via time–frequency filtering, Adv. Eng. Inform., 60 (2024) 102421.](https://www.sciencedirect.com/science/article/pii/S1474034624000697)
+* [R. Liu, X. Ding*, et al., “An Interpretable Multiplication-Convolution Network for Equipment Intelligent Edge Diagnosis, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024](https://ieeexplore.ieee.org/abstract/document/10443049).
+* [R. Liu, X. Ding*, et al., “An interpretable multiplication-convolution residual network for equipment fault diagnosis via time–frequency filtering, Adv. Eng. Inform., 60 (2024) 102421.](https://www.sciencedirect.com/science/article/pii/S1474034624000697)
 * [R. Liu, X. Ding*,et al., “Signal processing collaborated with deep learning: An interpretable FIRNet for industrial intelligent diagnosis,” Mech. Syst. Signal Proc., vol. 212, pp. 111314, 2024/04/15/, 2024.](https://www.sciencedirect.com/science/article/pii/S0888327024002127?via%3Dihub#m0005)
 * [R. Liu, X. Ding*, et al., “Sinc-Based Multiplication-Convolution Network for Small-Sample Fault Diagnosis and Edge Application,” IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-12, 2023.](https://ieeexplore.ieee.org/document/10266990)
-* [R. Liu, X. Ding*, etc.,Prior-knowledge-guided mode filtering network for interpretable equipment intelligent diagnosis under varying speed conditions, Adv. Eng. Inform., 2024]
+* [R. Liu, X. Ding*, et al.,Prior-knowledge-guided mode filtering network for interpretable equipment intelligent diagnosis under varying speed conditions, Adv. Eng. Inform., 2024](https://www.sciencedirect.com/science/article/pii/S1474034624001411)
 * [Q. Wu, X. Ding*, et al., "An Interpretable Multiplication-Convolution Sparse Network for Equipment Intelligent Diagnosis in Antialiasing and Regularization Constraint," IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-12, 2023.](https://ieeexplore.ieee.org/document/10108914)
 * [Q. Wu, X. Ding*, et al., An Intelligent Edge Diagnosis System Based on Multiplication-Convolution Sparse Network, IEEE Sens. J., (2023) 1-1.](https://ieeexplore.ieee.org/document/10227888)
 
